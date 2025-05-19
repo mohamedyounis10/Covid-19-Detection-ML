@@ -47,7 +47,7 @@ It includes:
 
 ```bash
 pip install pandas matplotlib seaborn streamlit
-
+```
 ---
 
 ## 📁 Project Structure
