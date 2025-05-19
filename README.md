@@ -33,7 +33,7 @@ It includes:
 
 ### 🖥️ Tkinter GUI:
 > *(Insert screenshot below)*
-![Tkinter Screenshot](screenshots/tkinter_screenshot.png)
+![Tkinter Screenshot](ttps://github.com/user-attachments/assets/5b9f793a-4ee5-4015-9966-057812957288)
 
 ---
 
