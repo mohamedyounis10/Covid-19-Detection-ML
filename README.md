@@ -47,6 +47,11 @@ It includes:
 
 ```bash
 pip install pandas matplotlib seaborn streamlit
+Then run the Python file
+python tk_app.py
+streamlit run streamlit_app.py
+http://localhost:8501
+
 ```
 ---
 
@@ -73,5 +78,5 @@ pip install pandas matplotlib seaborn streamlit
 
 ## 👨‍💻 Author
 
-Developed by [Your Name]
+Developed by Mohamed Younis
 
