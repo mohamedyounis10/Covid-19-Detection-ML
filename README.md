@@ -32,8 +32,7 @@ It includes:
 ## 🖼️ Screenshots
 
 ### 🖥️ Tkinter GUI:
-> *(Insert screenshot below)*
-![Tkinter Screenshot](ttps://github.com/user-attachments/assets/5b9f793a-4ee5-4015-9966-057812957288)
+![Tkinter](https://github.com/user-attachments/assets/c43c1905-e2aa-4546-8035-62850daa016b)
 
 ---
 
