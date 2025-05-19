@@ -8,6 +8,16 @@ It includes:
 
 ---
 
+## 📂 Dataset
+
+You can download the COVID-19 dataset used in this project from the following link:
+
+[📥 Download COVID-19 Dataset](https://www.kaggle.com/datasets/pranavraikokte/covid19-image-dataset)
+
+> Make sure to place the dataset file in the same directory as the notebook and apps, or update the file path accordingly in the code.
+
+---
+
 ## 💡 Features
 
 - Load and clean COVID-19 datasets
@@ -71,8 +81,8 @@ http://localhost:8501
 ## 📁 Project Structure
 
 - `covid19-code.ipynb` – Main Jupyter notebook for data analysis and UI logic  
-- `tkinter_app.py` – Python file for the Tkinter interface  
-- `streamlit_app.py` – Python file for the Streamlit dashboard  
+- `tk_app.py` – Python file for the Tkinter interface  
+- `app.py` – Python file for the Streamlit dashboard  
 - `screenshots/` – Folder containing UI images  
 - `README.md` – Project documentation
 
