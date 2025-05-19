@@ -37,8 +37,7 @@ It includes:
 ---
 
 ### 🌐 Streamlit Web App:
-> *(Insert screenshot below)*
-![Streamlit Screenshot](screenshots/streamlit_screenshot.png)
+![Streamlit](https://github.com/user-attachments/assets/94e71ec9-240d-4f93-8990-241a444d1049)
 
 ---
 
