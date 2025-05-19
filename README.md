@@ -53,6 +53,19 @@ streamlit run streamlit_app.py
 http://localhost:8501
 
 ```
+### 2. Run the Applications
+
+```bash
+# Run the Tkinter app
+python tk_app.py
+
+# Run the Streamlit app
+streamlit run streamlit_app.py
+```
+### 3. Access the Streamlit Interface
+```bash
+http://localhost:8501
+```
 ---
 
 ## 📁 Project Structure
