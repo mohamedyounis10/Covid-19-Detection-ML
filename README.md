@@ -12,9 +12,7 @@ It includes:
 
 You can download the COVID-19 dataset used in this project from the following link:
 
-[📥 Download COVID-19 Dataset](https://www.kaggle.com/datasets/pranavraikokte/covid19-image-dataset)
-
-> Make sure to place the dataset file in the same directory as the notebook and apps, or update the file path accordingly in the code.
+[📥COVID-19 Dataset](https://www.kaggle.com/datasets/pranavraikokte/covid19-image-dataset)
 
 ---
 
