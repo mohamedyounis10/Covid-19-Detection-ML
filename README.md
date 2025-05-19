@@ -55,11 +55,6 @@ You can download the COVID-19 dataset used in this project from the following li
 
 ```bash
 pip install pandas matplotlib seaborn streamlit
-Then run the Python file
-python tk_app.py
-streamlit run streamlit_app.py
-http://localhost:8501
-
 ```
 ### 2. Run the Applications
 
