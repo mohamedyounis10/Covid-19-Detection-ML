@@ -47,3 +47,31 @@ It includes:
 
 ```bash
 pip install pandas matplotlib seaborn streamlit
+
+---
+
+## 📁 Project Structure
+
+- `covid19-code.ipynb` – Main Jupyter notebook for data analysis and UI logic  
+- `tkinter_app.py` – Python file for the Tkinter interface  
+- `streamlit_app.py` – Python file for the Streamlit dashboard  
+- `screenshots/` – Folder containing UI images  
+- `README.md` – Project documentation
+
+---
+
+## 📦 Requirements
+
+- Python 3.7 or higher  
+- `pandas`  
+- `matplotlib`  
+- `seaborn`  
+- `streamlit`  
+- `tkinter` *(usually included with Python)*
+
+---
+
+## 👨‍💻 Author
+
+Developed by [Your Name]
+
